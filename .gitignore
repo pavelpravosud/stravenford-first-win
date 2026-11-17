@@ -1,0 +1,7 @@
+# never upload keys or outputs
+.env
+*.key
+*key*.txt
+first_win_output.md
+__pycache__/
+.venv/
